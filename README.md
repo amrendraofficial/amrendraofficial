@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on LLM Models
 - 📫 How to reach me ... ON MY SOCIAL PROFILE
 - 😄 Pronouns: ... HE/HIM
-- ⚡ Fun fact: ... Founder Of DataRepo
+- ⚡ Fun fact: ... Founder Of DataRepo Private Limited
 
 <!---
 amrendraofficial/amrendraofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
